@@ -1,6 +1,6 @@
 # PassionProject
 
-# Brainstorm Section
+## Brainstorm Section
 
 Ideas
 
