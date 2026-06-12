@@ -2,8 +2,6 @@
 
 ## Brainstorm Section
 
-Ideas
-
 Valorant Loading Screen - Meta Suggester
 
 - suggests optimal comp
